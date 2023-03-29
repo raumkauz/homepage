@@ -1,4 +1,4 @@
-baseurl = "heiderdesign.pages.dev"
+baseurl = "heider.design"
 title = "Nicolas Heider"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "de"
