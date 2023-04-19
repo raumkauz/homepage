@@ -12,7 +12,6 @@ Adresse: Flurstraße 3b
 
 PLZ: 84048 Mainburg
 
-E-Mail: Nicolas.Heider@hallertau.net
  
 
 
