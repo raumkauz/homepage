@@ -66,6 +66,6 @@ Sonstiges:  SAP (im Workflow: Manufacturing Process Management)
 ![image_0][2]
 
 Sie wollen ins Gespräch kommen? Ich freue mich auf ein Schreiben via E-Mail!
-
+@: Nicolas (Punkt) Heider (AT) hallertau (Punkt) net
 
 [2]: /img/icon_small.png
