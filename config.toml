@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "yellow"
   description = "Portfolio of Nicolas Heider"
-  copyright = "&copy;2022 Nicolas Heider <br><br>"
+  copyright = "&copy;2023 Nicolas Heider <br><br>"
   sidebarAbout = [
     "Techn. Produktdesigner (PgK), Student Technisches Design (THI)"
   ]
@@ -40,15 +40,14 @@ googleAnalytics = ""
       #  hash = ""
 
   # Nav links in the side bar
-  [[params.navlinks]]
-  name = "Portfolio"
-  url = "portfolio/"
-  home = true
+
+
 
   [[params.navlinks]]
   name = "Über mich"
   url = "about/"
-
+  home = true
+  
   [[params.navlinks]]
   name = "Impressum"
   url = "imprint/"
@@ -56,7 +55,7 @@ googleAnalytics = ""
 
   [params.social]
 
-  #email         = ""
+  email         = "Nicolas.Heider@hallertau.net"
   linkedin      = "https://www.linkedin.com/in/nicolas-heider-087925268/"
   
   

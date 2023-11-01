@@ -1,9 +1,19 @@
 +++
-date = "2016-11-05T21:05:33+05:30"
+date = "2023-11-01 T21:05:33+05:30"
 title = "Über mich" 
 +++
 
-Heimat-Mensch, Technik-Fan, Träumer, Teamplayer, Künstler, Bastler,	Denker, Macher, Perfektionist und Pragmatiker.
+
+ > ####  Hinweis
+ > Das Webportfolio wird nicht weiter verfügbar sein und durch ein "Einblicke und Highlights" ersetzt werden.
+ > Bei Interesse können Sie mein Portfolio via E-Mail als PDF beantragen. Vielen Dank für Ihr Verständnis, ich freue mich auf Ihr Schreiben.
+
+<br/>
+<br/>
+
+
+
+##### Heimat-Mensch, Technik-Fan, Träumer, Teamplayer, Künstler, Bastler,	Denker, Macher, Perfektionist und Pragmatiker.
 
 
 
@@ -65,6 +75,7 @@ Sonstiges:  SAP (im Workflow: Manufacturing Process Management)
 
 ![image_0][2]
 
-Sie wollen ins Gespräch kommen? Ich freue mich auf ein Schreiben via LinkedIn!
+Sie wollen ins Gespräch kommen? Ich freue mich auf ein Schreiben via E-Mail!
+
 
 [2]: /img/icon_small.png
