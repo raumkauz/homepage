@@ -5,7 +5,7 @@ title = "Über mich"
 
 
  > ####  Hinweis
- > Das Webportfolio wird nicht weiter verfügbar sein und durch ein "Einblicke und Highlights" ersetzt werden.
+ > Das Webportfolio wird in Zukunft nicht weiter verfügbar sein und durch ein "Einblicke und Highlights" ersetzt werden.
  > Bei Interesse können Sie mein Portfolio via E-Mail als PDF beantragen. Vielen Dank für Ihr Verständnis, ich freue mich auf Ihr Schreiben.
 
 <br/>
