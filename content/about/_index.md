@@ -64,7 +64,7 @@ Sonstiges:  SAP (im Workflow: Manufacturing Process Management)
 
 
 
->#### Hobbies
+>#### Meine Hobbies
 * Fantasy/Sci-Fi-Fan in Schrift- und Bildform
 * 3D-Druck (SLA & FFF/FDM), Modellbau/Miniaturen
 * ›	Videospiele und Konsolen aller Art und Jahrgänge sammeln
