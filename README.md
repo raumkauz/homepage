@@ -1,2 +1,2 @@
 # homepage
- my personal homepage
+my professional homepage
