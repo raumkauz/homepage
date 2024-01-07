@@ -22,6 +22,12 @@ jobs:
         with:
           hugo-version: '0.114.0'
           extended: true
+      
+      - name: Setup dart-sass
+        run: |
+          sudo apt update -y
+          sudo apt install nodejs
+          npm install -g sass
 
       - name: Build
         run: |
