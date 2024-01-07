@@ -25,9 +25,8 @@ jobs:
       
       - name: Setup dart-sass
         run: |
-          sudo apt update -y
-          sudo apt install nodejs
-          npm install -g sass
+          sudo snap install dart-sass
+          sudo snap alias dart-sass sass
 
       - name: Build
         run: |
