@@ -1,0 +1,21 @@
+.footer-content {
+    text-align: center;
+}
+
+.icon-container {
+    display: inline-block;
+}
+
+.language-list {
+    list-style-type: none;
+    padding: 0;
+	
+}
+
+.language-list a {
+    display: inline-block;
+    margin: 0 10px;
+	color: #6C757D;
+}
+
+
