@@ -1,0 +1,48 @@
+#paige-authors,
+#paige-breadcrumbs,
+#paige-credit,
+#paige-date,
+#paige-keywords,
+#paige-reading-time,
+#paige-series,
+#paige-toc,
+.paige-authors,
+.paige-date,
+.paige-date-header,
+.paige-keywords,
+.paige-reading-time,
+.paige-series,
+.paige-summary {
+    display: none;
+}
+
+
+.nav-link.active {
+    background-color: #272727 !important;
+	color: #F1F1F1!important;
+	font-weight: bold;
+	/*border-style: solid; 
+    border-width: 0.5px; 
+    border-color: #3F3F3F;*/
+}
+
+.nav-item a {
+    color: #F1F1F1;
+
+}
+
+.nav-item a:hover {
+	background-color: #1F1F1F;
+    color: #F1F1F1 
+}
+
+a {
+    color: #3EA6FF;
+
+	
+}
+
+
+body {
+    background-color: #0F0F0F; /* #ff0000 ist ein Platzhalter, ersetzen Sie es durch die Farbe Ihrer Wahl */
+}
