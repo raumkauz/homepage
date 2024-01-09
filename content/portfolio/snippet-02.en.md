@@ -70,7 +70,7 @@ This type of presentation may be dismissed as a mere toy. Although this labellin
 
 </p> <br>
 
-<p>{{% paige/image alt="Project-Image Modular Headphones" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="45rem" loading="eager" process="webp" src= "/img/02_LED-Matrix-DMU/00-012_led_matrix_dmu_01.jpeg" width="100%" %}}</p>
+<p>{{% paige/image alt="Project-Image Modular Headphones" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="45rem" loading="eager" process="webp" src= "/img/02_LED-Matrix-DMU/00-012_led_matrix_dmu_01.jpg" width="100%" %}}</p>
 </p>
 
 
