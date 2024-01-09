@@ -7,7 +7,7 @@ weight: 12
 
 <!-- 03 Mobility aid Video -->
 
-{{< paige/youtube autoplay=true description="Video of the eo mobility aid" mute=true loop=true maxwidth= "100%"  video="bVnUbZFMG3E" >}}
+{{< paige/youtube autoplay=false description="Video of the eo mobility aid" mute=true loop=true maxwidth= "100%"  video="bVnUbZFMG3E" >}}
 
 <br>
 

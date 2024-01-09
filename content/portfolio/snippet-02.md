@@ -7,7 +7,7 @@ weight: 11
 
 
 <!-- 01 Video Cover -->
-{{< paige/youtube autoplay=true description="Video of an digital mockup showing the versatility of a led matrix" mute=true loop=true maxwidth= "100%"  video="fNboPc_FB6s" >}}
+{{< paige/youtube autoplay=false description="Video of an digital mockup showing the versatility of a led matrix" mute=true loop=true maxwidth= "100%"  video="fNboPc_FB6s" >}}
 
 <br>
 
@@ -72,7 +72,7 @@ Gamification ist nicht neu, wird jedoch viel zu selten und nicht unter voller Au
 
 </p> <br>
 
-<p>{{% paige/image alt="Project-Image Modular Headphones" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="45rem" loading="eager" process="webp" src= "/img/02_LED-Matrix-DMU/00-012_led_matrix_dmu_01.png" width="100%" %}}</p>
+<p>{{% paige/image alt="Project-Image Modular Headphones" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="45rem" loading="eager" process="webp" src= "/img/02_LED-Matrix-DMU/00-012_led_matrix_dmu_01.jpeg" width="100%" %}}</p>
 </p>
 
 
