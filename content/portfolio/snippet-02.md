@@ -72,7 +72,7 @@ Gamification ist nicht neu, wird jedoch viel zu selten und nicht unter voller Au
 
 </p> <br>
 
-<p>{{% paige/image alt="Project-Image Modular Headphones" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="45rem" loading="eager" process="webp" src= "/img/02_LED-Matrix-DMU/00-012_led_matrix_dmu_01.jpg" width="100%" %}}</p>
+<p>{{% paige/image alt="Project-Image Car Lights" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="45rem" loading="eager" process="webp" src= "/img/02_LED-Matrix-DMU/00-012_led_matrix_dmu_01.jpg" width="100%" %}}</p>
 </p>
 
 
