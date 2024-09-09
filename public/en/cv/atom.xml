@@ -1,0 +1,121 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed  xml:lang="en-US"  xmlns="http://www.w3.org/2005/Atom">
+    
+        <author>
+            
+                <email>Nicolas.Heider@example.com</email>
+            
+
+            
+                <name>Nicolas Heider</name>
+            
+
+            
+                <uri>https://heider.design</uri>
+            
+        </author>
+    
+
+    
+
+    <id>http://localhost:1313/en/cv/atom.xml</id>
+
+    
+        
+
+        
+            
+        
+
+        
+            <link href="http://localhost:1313/en/cv/atom.xml" rel="self" type="application/atom+xml"/>
+        
+    
+        
+
+        
+            
+        
+
+        
+            <link href="http://localhost:1313/en/cv/" rel="alternate" type="text/html"/>
+        
+    
+        
+
+        
+
+        
+            <link href="http://localhost:1313/en/cv/rss.xml" rel="alternate" type="application/rss+xml"/>
+        
+    
+
+    
+        
+            
+                <link href="http://localhost:1313/cv/atom.xml" hreflang="de" rel="alternate" type="application/atom+xml"/>
+            
+        
+            
+        
+            
+                <link href="http://localhost:1313/cv/rss.xml" hreflang="de" rel="alternate" type="application/rss+xml"/>
+            
+        
+    
+
+    
+
+    
+        <rights type="html"><![CDATA[© Nicolas Heider]]></rights>
+    
+
+    
+        <subtitle type="html"><![CDATA[Résumé]]></subtitle>
+    
+
+    <title type="html"><![CDATA[Curriculum Vitae · Nicolas Heider]]></title>
+    <updated>0001-01-01T00:00:00Z</updated>
+
+    
+</feed>

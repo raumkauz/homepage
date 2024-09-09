@@ -132,6 +132,4 @@ web_master = "Nicolas.Heider@example.com(Nicolas.Heider)"
 [params.paige.file_link]
 content = "Edit this page"
 disable = true
-url = "https://github.com/willfaught/paige/edit/master/exampleSite/content/%s"
-
-
+url = ""

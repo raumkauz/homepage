@@ -54,7 +54,7 @@ Student Technisches Design B. Sc. <br>
 * Erstellen von aussagekräftigen technischen Zeichnungsableitungen (für Fertigung, Montage, Messen, etc.)
 * Reverse Engineering aufgrund von 3D-Scans (Punktwolken, Fitting, etc.)
 * Fertigungserfahrung im Metallbereich sowie souveräner Umgang mit Werkzeug und Standardmaschinen
-* Prototyping mithilfe von Micrcontrollern mit Bootloader (Arduino u. Ä.)
+* Prototyping mithilfe von Microcontrollern mit Bootloader (Arduino u. Ä.)
 
 <br>
 </p>
@@ -77,18 +77,6 @@ Student Technisches Design B. Sc. <br>
 **Media:** Blender, Adobe Photoshop, Adobe Illustrator, Affinity Programme, DaVinci Resolve
 
 **Sonstiges:**  SAP (im Workflow Manufacturing Process Management)
-
-<br>
-</p>
-
-##### **Hobbys**
-* Fantasy/Sci-Fi-Fan in Schrift- und Bildform
-* 3D-Druck (SLA & FFF/FDM), Modellbau/Miniaturen
-* ›	Videospiele und Konsolen aller Art und Jahrgänge sammeln
-* Logik- und Shaderprogrammierung für eigene Videospielprojekte
-* Zeichnen / Illustration
-* Fitness, Ausflüge in die Natur und Wandern
-* Ukulele spielen
 
 <br>
 </p>

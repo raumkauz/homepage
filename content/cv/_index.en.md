@@ -71,24 +71,12 @@ Student Technical Design B. Sc. <br>
 <br>
 </p>
 
-##### **Vertraute Software**
+##### **Familiar Software**
 **CAD/CAM:** CATIA V5, FASTTRIM, Autodesk FUSION 360, Rhinoceros 3d, Solid Works and more
 
-**Media:** Blender, Adobe Photoshop, Adobe Illustrator, Affinity Programme, DaVinci Resolve
+**Media:** Blender, Adobe Photoshop, Adobe Illustrator, Affinity Software, DaVinci Resolve
 
 **Sonstiges:**  SAP (Workflow Manufacturing Process Management)
-
-<br>
-</p>
-
-##### **Hobbies**
-* Fantasy/Sci-Fi fan in written and graphic media
-* 3D printing (SLA & FFF/FDM), modelling/miniatures
-* Collecting video games and consoles of all types and eras
-* Logic and shader programming for own video game projects
-* Drawing / Illustration
-* Fitness, Trips into nature and hiking
-* Playing the Ukulele
 
 <br>
 </p>
