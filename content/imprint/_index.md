@@ -5,10 +5,8 @@ title: "Impressum"
 
 ### **Angaben gem. § 5 TMG:**
 <br>
-Nicolas D., Heider </p>
-Adresse: Flurstraße 3b </p>
-PLZ: 84048 Mainburg </p>
-E-Mail: Nicolas [Punkt] Heider [at] hallertau [Punkt] net </p>
+
+Kontakt: Nicolas [dot] Heider [at] hallertau [dot] net </p>
 <br>
 </p>
 

@@ -1,5 +1,5 @@
 ---
-description: "Techn. Productdesigner (IHK) | Student Technical Design B. Sc. "
+description: "Technical Designer B. Sc. "
 paige:
   search:
     hide_page: true

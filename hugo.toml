@@ -40,11 +40,6 @@ titlecasestyle = "Go"
     url = "/portfolio/"
     weight = 20
 
-  [[languages.de.menu.main]]
-
-    name = "Curriculum Vitae"
-    url = "/cv/"
-    weight = 30
 
   [[languages.de.menu.main]]
 
@@ -76,11 +71,6 @@ titlecasestyle = "Go"
     url = "/en/portfolio/"
     weight = 20
 
-  [[languages.en.menu.main]]
-
-    name = "Curriculum Vitae"
-    url = "/en/cv/"
-    weight = 30
 
   [[languages.en.menu.main]]
 

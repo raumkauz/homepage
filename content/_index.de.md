@@ -1,5 +1,5 @@
 ---
-description: "Techn. Produktdesigner (PgK) | Student Technisches Design B. Sc. "
+description: "Technischer Designer B. Sc. "
 paige:
   search:
     hide_page: true

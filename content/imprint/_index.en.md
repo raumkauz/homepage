@@ -5,10 +5,8 @@ title: "Imprint"
 
 ### **Information according to § 5 TMG (German Telemedia Act):**
 <br>
-Nicolas D., Heider </p>
-Adress: Flurstraße 3b </p>
-Place: 84048 Mainburg </p>
-E-Mail: Nicolas [dot] Heider [at] hallertau [dot] net </p>
+
+Contact: Nicolas [dot] Heider [at] hallertau [dot] net </p>
 <br>
 </p>
 

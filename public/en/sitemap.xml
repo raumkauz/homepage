@@ -14,18 +14,6 @@
                 href="http://localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/cv/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/cv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/cv/"
-                />
-  </url><url>
     <loc>http://localhost:1313/en/imprint/</loc>
     <xhtml:link
                 rel="alternate"
